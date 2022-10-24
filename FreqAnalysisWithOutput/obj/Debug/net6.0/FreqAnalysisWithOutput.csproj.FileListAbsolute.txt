@@ -1,0 +1,17 @@
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\bin\Debug\net6.0\Sample.txt
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\bin\Debug\net6.0\Sample2.txt
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\bin\Debug\net6.0\FreqAnalysisWithOutput.exe
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\bin\Debug\net6.0\FreqAnalysisWithOutput.deps.json
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\bin\Debug\net6.0\FreqAnalysisWithOutput.runtimeconfig.json
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\bin\Debug\net6.0\FreqAnalysisWithOutput.dll
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\bin\Debug\net6.0\FreqAnalysisWithOutput.pdb
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\FreqAnalysisWithOutput.csproj.AssemblyReference.cache
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\FreqAnalysisWithOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\FreqAnalysisWithOutput.AssemblyInfoInputs.cache
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\FreqAnalysisWithOutput.AssemblyInfo.cs
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\FreqAnalysisWithOutput.csproj.CoreCompileInputs.cache
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\FreqAnalysisWithOutput.dll
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\refint\FreqAnalysisWithOutput.dll
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\FreqAnalysisWithOutput.pdb
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\FreqAnalysisWithOutput.genruntimeconfig.cache
+D:\C# Tutorials\Programming Challenges\FrequencyAnalysis\Frequency-Analysis-With-Speed-Benchmark\FreqAnalysisWithOutput\obj\Debug\net6.0\ref\FreqAnalysisWithOutput.dll
