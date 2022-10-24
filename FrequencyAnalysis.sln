@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreqAnalysisBenchmark", "FreqAnalysis\FreqAnalysisBenchmark.csproj", "{BE1F0F24-E955-4A61-951A-799F18D5030C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreqAnalysisWithOutput", "FreqAnalysisWithOutput\FreqAnalysisWithOutput.csproj", "{D30E206B-D04F-43F7-B507-D5253B960D18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreqAnalysisWithOutput", "FreqAnalysisWithOutput\FreqAnalysisWithOutput.csproj", "{D86671CF-4D92-4D25-AB9A-3ACC9B62BF5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{BE1F0F24-E955-4A61-951A-799F18D5030C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE1F0F24-E955-4A61-951A-799F18D5030C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE1F0F24-E955-4A61-951A-799F18D5030C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D30E206B-D04F-43F7-B507-D5253B960D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D30E206B-D04F-43F7-B507-D5253B960D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D30E206B-D04F-43F7-B507-D5253B960D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D30E206B-D04F-43F7-B507-D5253B960D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86671CF-4D92-4D25-AB9A-3ACC9B62BF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86671CF-4D92-4D25-AB9A-3ACC9B62BF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86671CF-4D92-4D25-AB9A-3ACC9B62BF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86671CF-4D92-4D25-AB9A-3ACC9B62BF5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

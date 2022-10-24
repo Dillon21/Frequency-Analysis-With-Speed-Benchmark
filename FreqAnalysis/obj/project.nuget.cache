@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YRoF5T8Sd1tUIIXu3NpkCSImcASxg45l7IEqkELbx6+eAlrxInu+H8B83M+DPKWqZf46iOQD5w017fUNJlIHEw==",
+  "dgSpecHash": "sFhUPufdLGYW7niaOjOzrugrJURVOwPl9MsCfq3yU5jCKmgVLBV6yR4j1zT3nuZH7gmchWyTZnNER0qyCDHJ4w==",
   "success": true,
-  "projectFilePath": "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\FreqAnalysis\\FreqAnalysisBenchmark.csproj",
+  "projectFilePath": "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\Frequency-Analysis-With-Speed-Benchmark\\FreqAnalysis\\FreqAnalysisBenchmark.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dillon.scott\\.nuget\\packages\\benchmarkdotnet\\0.13.2\\benchmarkdotnet.0.13.2.nupkg.sha512",
     "C:\\Users\\dillon.scott\\.nuget\\packages\\benchmarkdotnet.annotations\\0.13.2\\benchmarkdotnet.annotations.0.13.2.nupkg.sha512",

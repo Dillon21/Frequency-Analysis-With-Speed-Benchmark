@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\FreqAnalysis\\FreqAnalysisBenchmark.csproj": {}
+    "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\Frequency-Analysis-With-Speed-Benchmark\\FreqAnalysis\\FreqAnalysisBenchmark.csproj": {}
   },
   "projects": {
-    "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\FreqAnalysis\\FreqAnalysisBenchmark.csproj": {
+    "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\Frequency-Analysis-With-Speed-Benchmark\\FreqAnalysis\\FreqAnalysisBenchmark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\FreqAnalysis\\FreqAnalysisBenchmark.csproj",
+        "projectUniqueName": "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\Frequency-Analysis-With-Speed-Benchmark\\FreqAnalysis\\FreqAnalysisBenchmark.csproj",
         "projectName": "FreqAnalysisBenchmark",
-        "projectPath": "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\FreqAnalysis\\FreqAnalysisBenchmark.csproj",
+        "projectPath": "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\Frequency-Analysis-With-Speed-Benchmark\\FreqAnalysis\\FreqAnalysisBenchmark.csproj",
         "packagesPath": "C:\\Users\\dillon.scott\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\FreqAnalysis\\obj\\",
+        "outputPath": "D:\\C# Tutorials\\Programming Challenges\\FrequencyAnalysis\\Frequency-Analysis-With-Speed-Benchmark\\FreqAnalysis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
