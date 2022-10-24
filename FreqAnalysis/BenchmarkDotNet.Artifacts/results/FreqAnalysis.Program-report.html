@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>FreqAnalysis.Program-20221024-154043</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.13.2, OS=Windows 10 (10.0.19044.2130/21H2/November2021Update)
+12th Gen Intel Core i7-12700, 1 CPU, 20 logical and 12 physical cores
+.NET SDK=6.0.402
+  [Host]     : .NET 6.0.10 (6.0.1022.47605), X64 RyuJIT AVX2
+  DefaultJob : .NET 6.0.10 (6.0.1022.47605), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Gen0</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>testFirst</td><td>21.94 ms</td><td>0.264 ms</td><td>0.247 ms</td><td>562.5000</td><td>7.29 MB</td>
+</tr><tr><td>testSecond</td><td>32.42 ms</td><td>0.398 ms</td><td>0.372 ms</td><td>533.3333</td><td>7.29 MB</td>
+</tr><tr><td>testThird</td><td>32.43 ms</td><td>0.511 ms</td><td>0.478 ms</td><td>562.5000</td><td>7.29 MB</td>
+</tr></tbody></table>
+</body>
+</html>
